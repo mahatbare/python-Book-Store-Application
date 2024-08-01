@@ -7,8 +7,10 @@ name = "pypi"
 ipdb = "*"
 sqlalchemy = "*"
 alembic = "*"
+click = "*"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.8"
